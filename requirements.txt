@@ -1,0 +1,6 @@
+gym==0.18.0
+matplotlib==3.5.2
+numpy==1.19.4
+ray==0.8.6
+six==1.16.0
+torch==1.12.0+cu116
